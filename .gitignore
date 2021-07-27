@@ -4,3 +4,7 @@
 *.o
 build*/
 *build*/
+Makefile
+moc_*.cpp
+moc_*.h
+ui_*.h
