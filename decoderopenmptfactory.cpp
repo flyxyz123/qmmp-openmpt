@@ -6,7 +6,7 @@
 
 #include <QFile>
 #include <QSettings>
-#include <QMessageBox>
+#include <QtWidgets/QMessageBox>
 
 bool DecoderOpenMPTFactory::canDecode(QIODevice *input) const
 {
